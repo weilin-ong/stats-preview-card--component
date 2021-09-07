@@ -54,7 +54,7 @@ Two main things I have learned working through the project:
 
 ### Continued development
 
-I had trouble trying to center the container. Justify-content and align-items did not work for my flex-container and I haven't figured out why. I used position method that I found on W3school. I will dive deep into this as well as Flex & Grid to and be more comfortable with it.
+I had trouble trying to center the container. Justify-content and align-items did not work for my flex-container and I haven't figured out why. I used position method that I found on W3school. I will dive deep into this as well as Flex & Grid and be more comfortable with it.
 
 ### Useful resources
 

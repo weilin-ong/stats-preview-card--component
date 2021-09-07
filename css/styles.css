@@ -97,11 +97,14 @@ h1{
     height: 446px;
     position: relative;
     border-radius: 0 15px 15px 0;
-    
+    opacity: .8;
+    filter: contrast(120%);
 }
 
 .overlay {
     background-color: hsl(277, 64%, 61%);
+    filter: brightness(120%) contrast(120%);
+    opacity: .7;
     mix-blend-mode: multiply;
     position: absolute;
     width: 100%;
@@ -131,5 +134,9 @@ h1{
 
     .attribution{
         bottom: -25%;
+    }
+
+    .overlay, .flex-item-picture{
+        border-radius: 15px 15px 0 0;
     }
 }
